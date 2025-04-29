@@ -1,3 +1,5 @@
+![banner](banner.png)
+
 # LangChain + LangGraph na Prática: Criando Fluxos Inteligentes com LLMs
 
 Este projeto demonstra como integrar **LangGraph** com **LangChain** para construir fluxos inteligentes e dinâmicos utilizando modelos de linguagem (LLMs). A proposta é mostrar na prática como essas ferramentas podem ser combinadas para criar sistemas de perguntas e respostas mais contextuais e interativos.
